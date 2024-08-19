@@ -1,5 +1,11 @@
-## Hi there 👋
+## Boa Noite🌃
+meu nome é Rafael Voughan
+![niko-oneshot](https://github.com/user-attachments/assets/8ccb9e35-1645-400b-954f-1f1b1ba6e1e0)
 
+estou estudando no Alura, desenvolvendo a linguagem Javascript
+este é um lugar que posso utilizar para organizar meus projetos
+
+Contato: rafael.holler@escola.pr.gov.br
 <!--
 **oneshot1532/oneshot1532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
